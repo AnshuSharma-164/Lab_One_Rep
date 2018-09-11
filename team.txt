@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Change
 
+=======
+DAVID MADE A CHANGE
+BATUHAN ALSO MADE A CHANGE
+>>>>>>> ed276df4ee2c05647c7575defe9cf4ba7be8574a
